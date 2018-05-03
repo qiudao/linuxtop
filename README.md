@@ -1,8 +1,6 @@
 # linuxtop
 linux top design doc
 
-# 参考
-http://www.kioskworld.cn/ 中国自助设备网
 
 # 命名
 暂称为linuxtop。需要一个好记的名字, 好宣传的名字
@@ -15,3 +13,7 @@ kiosk已经存在好久，应该很多厂家都基于它开发了产品，比较
 # 宣传
  - 树莓派，beaglebone等论坛发帖，宣传项目
 
+# 参考
+http://www.kioskworld.cn/ 中国自助设备网
+http://www.linutop.com/software.en.html linux top
+http://tuxdiary.com/2014/11/05/linux-distros-for-kiosks/ Linux distros for kiosk
